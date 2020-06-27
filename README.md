@@ -14,8 +14,7 @@ Kaggle - Dataset: Consumer Business Complaints in Brazil
 
 
 2- Bibliotecas:
-	- Sertifique-se de ter instalado em seu ambiente as seguintes bibliotecas:
-		nltk, etc
+	- nltk, etc
 
 3- Agrupamento em função das características  das reclamações:
 
