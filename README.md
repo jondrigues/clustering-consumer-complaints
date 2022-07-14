@@ -1,15 +1,18 @@
 # Python Clustering Consumer Complaints
-This project aims to create a clustering model to bundler and classify complaints by the same subjects with unsupervised leaning
+This project aims to create a clustering model to bundler and classify complaints by related subjects with unsupervised leaning
 allowing a better undestanding of open complaints at PROCON (Fundação de Proteção e Defesa do Consumidor).
 
 ## Context
 This repository is dedicated to the final graduation project the specialization in Complex Data Mining provided by UNICAMP (Estadual de Campinas Universidade)
 
 ## Method and results
-[]
+- NLTK ( Natural Language Toolkit)
+- Kmeans 
 
 ## Dataset
-[]
+This dataset contains information about complaints filed in Procons between 2012 and 2016. This data was download from official Brazilian government open data website.
+
+Source: https://www.kaggle.com/datasets/gerosa/procon
 
 ## Tools used in this project
 * [Poetry](https://towardsdatascience.com/how-to-effortlessly-publish-your-python-package-to-pypi-using-poetry-44b305362f9f): Dependency management - [article](https://towardsdatascience.com/how-to-effortlessly-publish-your-python-package-to-pypi-using-poetry-44b305362f9f)
