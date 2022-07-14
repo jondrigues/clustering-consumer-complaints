@@ -3,7 +3,7 @@ This project aims to create a clustering model to bundler and classify complaint
 allowing a better undestanding of open complaints at PROCON (Fundação de Proteção e Defesa do Consumidor).
 
 ## Context
-[]
+This repository is dedicated to the final graduation project the specialization in Complex Data Mining provided by UNICAMP (Estadual de Campinas Universidade)
 
 ## Method and results
 []
