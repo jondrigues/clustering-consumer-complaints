@@ -1,4 +1,15 @@
-# python-clustering-consumer-complaints
+# Python Clustering Consumer Complaints
+This project aims to create a clustering model to bundler and classify complaints by the same subjects with unsupervised leaning
+allowing a better undestanding of open complaints at PROCON (Fundação de Proteção e Defesa do Consumidor).
+
+## Context
+[]
+
+## Method and results
+[]
+
+## Dataset
+[]
 
 ## Tools used in this project
 * [Poetry](https://towardsdatascience.com/how-to-effortlessly-publish-your-python-package-to-pypi-using-poetry-44b305362f9f): Dependency management - [article](https://towardsdatascience.com/how-to-effortlessly-publish-your-python-package-to-pypi-using-poetry-44b305362f9f)
